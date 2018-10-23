@@ -2,11 +2,10 @@
     "name": "live0evil/translate",
     "authors": [
         {
-            "name": "Luke",
+            "name": "Sch0ng",
             "email": "Sch0ng@163.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
