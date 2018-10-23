@@ -1,0 +1,16 @@
+{
+    "name": "live0evil/translate",
+    "authors": [
+        {
+            "name": "Luke",
+            "email": "Sch0ng@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hello\\": "src/"
+        }
+    }
+}
